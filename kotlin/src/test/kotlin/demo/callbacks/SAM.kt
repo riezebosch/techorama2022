@@ -1,6 +1,6 @@
-package callbacks
+package demo.callbacks
 
-import callbacks.SAM.OnClickListener
+import demo.callbacks.SAM.OnClickListener
 import org.junit.jupiter.api.Test
 import kotlin.test.assertTrue
 

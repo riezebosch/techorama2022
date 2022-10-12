@@ -1,3 +1,5 @@
+package demo
+
 import io.kotest.matchers.shouldBe
 import org.junit.jupiter.api.Test
 import kotlin.test.assertEquals

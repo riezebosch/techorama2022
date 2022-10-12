@@ -1,4 +1,4 @@
-package callbacks
+package demo.callbacks
 
 import org.junit.jupiter.api.Test
 import kotlin.test.assertTrue

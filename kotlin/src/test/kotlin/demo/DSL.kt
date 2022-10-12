@@ -1,3 +1,5 @@
+package demo
+
 import org.junit.jupiter.api.Test
 
 // https://kotlinlang.org/docs/type-safe-builders.html
