@@ -26,10 +26,11 @@ class SAM {
     fun test() {
         var isClicked = false
 
-        val view = View()
-        view.setOnClickListener(OnClickListener {
-            isClicked = true
-        })
+        val view = View().apply {
+            setOnClickListener {
+                isClicked = true
+            }
+        }
 
         view.invoke()
         assertTrue(isClicked)
